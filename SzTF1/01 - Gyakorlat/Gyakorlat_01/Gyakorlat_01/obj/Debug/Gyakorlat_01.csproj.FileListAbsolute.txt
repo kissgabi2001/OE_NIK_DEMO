@@ -1,0 +1,8 @@
+D:\GIT\OE_NIK_DEMO\SzTF1\Gyakorlat_01\Gyakorlat_01\bin\Debug\Gyakorlat_01.exe.config
+D:\GIT\OE_NIK_DEMO\SzTF1\Gyakorlat_01\Gyakorlat_01\bin\Debug\Gyakorlat_01.exe
+D:\GIT\OE_NIK_DEMO\SzTF1\Gyakorlat_01\Gyakorlat_01\bin\Debug\Gyakorlat_01.pdb
+D:\GIT\OE_NIK_DEMO\SzTF1\Gyakorlat_01\Gyakorlat_01\obj\Debug\Gyakorlat_01.csproj.AssemblyReference.cache
+D:\GIT\OE_NIK_DEMO\SzTF1\Gyakorlat_01\Gyakorlat_01\obj\Debug\Gyakorlat_01.csproj.SuggestedBindingRedirects.cache
+D:\GIT\OE_NIK_DEMO\SzTF1\Gyakorlat_01\Gyakorlat_01\obj\Debug\Gyakorlat_01.csproj.CoreCompileInputs.cache
+D:\GIT\OE_NIK_DEMO\SzTF1\Gyakorlat_01\Gyakorlat_01\obj\Debug\Gyakorlat_01.exe
+D:\GIT\OE_NIK_DEMO\SzTF1\Gyakorlat_01\Gyakorlat_01\obj\Debug\Gyakorlat_01.pdb
