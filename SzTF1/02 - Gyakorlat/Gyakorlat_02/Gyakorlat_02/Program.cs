@@ -14,6 +14,19 @@ namespace Gyakorlat_02
 
             //Kérj be a konzolról egy nevet és nézd meg, hogy a hallgató neve Béla-e
 
+            Console.WriteLine("Add meg a neved: ");
+
+            string nev = Console.ReadLine();
+
+            if (nev == "Béla")
+            {
+                Console.WriteLine("Igaz");
+            }
+            else
+            {
+                Console.WriteLine("Hamis");
+            }
+
 
             Console.WriteLine("\n");
 
@@ -22,6 +35,22 @@ namespace Gyakorlat_02
             #region 2 feladat
 
             //Vizsgáljuk meg, hogy a konzolról bekért szám pozitív, negatív, vagy nulla
+
+            Console.WriteLine( "Ad egy meg számot");
+            int szam = int.Parse(Console.ReadLine());
+
+            if (szam > 0)
+            {
+                Console.WriteLine(" a megadott szám pozitv");
+            }
+            else if(szam < 0)
+            {
+                Console.WriteLine( "negativ");
+            }
+            else
+            {
+                Console.WriteLine("A szam 0");
+            }
 
 
             Console.WriteLine("\n");
