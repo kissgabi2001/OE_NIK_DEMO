@@ -24,8 +24,13 @@ namespace Gyakorlat_06_megoldas
             #region 3. feladat
             //Bekér a felhasználóótól egy stringet és megvizsgálja hogy érvényes e-mail cím-e.
             //a) A címben pontosan 1 db @ (kukac)jel szerepel.
-            //b) A @ előtti rész: a.legfeljebb 64 karakter hosszú lehet, b.az első és utolsó karaktere nem lehet. (pont), c.valamint nem szerepelhet benne két pont közvetlenül egymás mellett.
-            //c) A @ utáni rész: a.legfeljebb 255 karakter hosszú lehet, b.tartalmazhat betűket és számokat, c. írásjeleket azonban nem, kivéve. (pont) vagy - (kötőjel), feltéve hogy az nem az első vagy utolsó karakter, d.valamint nem szerepelhet benne két pont közvetlenül egymás mellett
+            //b) A @ előtti rész: a.legfeljebb 64 karakter hosszú lehet,
+            //b.az első és utolsó karaktere nem lehet. (pont),
+            //c.valamint nem szerepelhet benne két pont közvetlenül egymás mellett.
+            //c) A @ utáni rész: a.legfeljebb 255 karakter hosszú lehet,
+            //b.tartalmazhat betűket és számokat,
+            //c. írásjeleket azonban nem, kivéve. (pont) vagy - (kötőjel), feltéve hogy az nem az első vagy utolsó karakter,
+            //d.valamint nem szerepelhet benne két pont közvetlenül egymás mellett
 
 
             Email_vizsg();
@@ -95,7 +100,7 @@ namespace Gyakorlat_06_megoldas
 
         static bool Maganhangzo_e(char c)
         {
-            string maganhangzok = "öÖüÜóÓeEuUoOiIőŐúÚaAéÉáÁűŰíÍ";
+            string maganhangzok = "ÖöüÜóÓeEuUoOiIőŐúÚaAéÉáÁűŰíÍ";
             return maganhangzok.Contains(c.ToString());
         }
 
