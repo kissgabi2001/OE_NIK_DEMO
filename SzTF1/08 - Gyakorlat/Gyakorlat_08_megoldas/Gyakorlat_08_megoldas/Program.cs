@@ -37,6 +37,7 @@ namespace Gyakorlat_08_megoldas
     {
         static void Main(string[] args)
         {
+            /*
             #region 1. feladat
 
             // Autók létrehozása az osztály segítségével
@@ -51,6 +52,7 @@ namespace Gyakorlat_08_megoldas
             auto2.KiirAutoAdatai();
 
             #endregion
+            */
 
             #region 2. feladat
 
@@ -69,7 +71,7 @@ namespace Gyakorlat_08_megoldas
             }
 
             #endregion
-
+            /*
             #region 3. feladat
 
             //1.Készítsen Kör osztályt, amely egy kört a középpontja koordinátáival és a sugárral reprezentál! Az osztályban legyen metódus, ami megállapítja, hogy egy adott pont benne van-e a körben vagy sem.
@@ -81,9 +83,9 @@ namespace Gyakorlat_08_megoldas
 
             Jatek();
 
-            #endregion
+            #endregion*/
         }
-
+        /*
         static void Jatek()
         {
             CelTabla c = new CelTabla(12);
@@ -101,8 +103,12 @@ namespace Gyakorlat_08_megoldas
             }
 
             Console.WriteLine($"Pontod: {talalat}");
+
+
         }
+        */
 
 
     }
-}
+    }
+
