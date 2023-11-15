@@ -9,7 +9,7 @@ namespace gyak_09
     internal class ZH
     {
 
-        //propfll
+        //propfull
         private int pont;
 
         public int Pont
